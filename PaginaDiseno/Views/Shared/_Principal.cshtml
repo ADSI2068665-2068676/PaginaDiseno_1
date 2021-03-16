@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div>
+        @Html.ActionLink("Acerca de este sitio","Index") - 
+        @Html.ActionLink("Periodicos", "Periodicos") - 
+        @Html.ActionLink("Buscadores", "Buscadores") - 
+        @Html.ActionLink("Blog", "Blogs")
+
+        <hr />
+        @RenderBody()
+        <hr />
+
+        <h3>Carlos Luna © 2021 - Todos los derechos reservados.</h3>
+    </div>
+</body>
+</html>

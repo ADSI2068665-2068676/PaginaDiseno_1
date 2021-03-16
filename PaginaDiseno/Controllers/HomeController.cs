@@ -13,5 +13,17 @@ namespace PaginaDiseno.Controllers
         {
             return View();
         }
+        public ActionResult Periodicos()
+        {
+            return View();
+        }
+        public ActionResult Buscadores()
+        {
+            return View();
+        }
+        public ActionResult Blogs()
+        {
+            return View();
+        }
     }
 }
