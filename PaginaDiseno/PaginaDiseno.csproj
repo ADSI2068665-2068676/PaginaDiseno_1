@@ -109,6 +109,15 @@
     <Content Include="Views\Home\Periodicos.cshtml" />
     <Content Include="Views\Home\Buscadores.cshtml" />
     <Content Include="Views\Home\Blogs.cshtml" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Home\Index3.cshtml" />
+    <Content Include="Views\Home\Periodicos2.cshtml" />
+    <Content Include="Views\Home\Buscadores2.cshtml" />
+    <Content Include="Views\Home\Blogs2.cshtml" />
+    <Content Include="Views\Shared\_Principal2.cshtml" />
+    <Content Include="Views\Home\Periodicos3.cshtml" />
+    <Content Include="Views\Home\Buscadores3.cshtml" />
+    <Content Include="Views\Home\Blogs3.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
